@@ -1,0 +1,14 @@
+{
+  "name": "moulyamc/coffee-shop-cashiering-system",
+  "description": "A PHP point-of-sale and management system for coffee shops.",
+  "type": "project",
+  "require": {
+    "php": ">=7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+  "license": "MIT"
+}

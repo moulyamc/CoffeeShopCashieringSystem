@@ -1,0 +1,14 @@
+{
+  "name": "coffee-shop-cashiering-system",
+  "version": "1.0.0",
+  "description": "Frontend assets for Coffee Shop Cashiering System",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo \"No build steps defined. Add your build tool commands here\"",
+    "start": "echo \"No dev server defined. Add a start script if needed\""
+  },
+  "author": "Moul",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}

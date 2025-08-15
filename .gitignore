@@ -1,0 +1,39 @@
+# Environment
+.env
+.env.local
+.env.production
+
+# Composer
+/vendor/
+
+# Node
+/node_modules/
+
+# Logs
+*.log
+logs/
+storage/logs/
+
+# Cache & temp
+cache/
+tmp/
+*.tmp
+*.temp
+
+# Uploads (user content)
+uploads/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor
+.idea/
+.vscode/
+*.suo
+*.user
+*.sln
+
+# Build artefacts
+dist/
+build/
